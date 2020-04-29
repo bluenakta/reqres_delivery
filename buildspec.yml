@@ -2,8 +2,7 @@ version: 0.2
 
 env:
   variables:
-    IMAGE_REPO_NAME: "user14-products"
-    _PROJECT_NAME: "user14-products"
+    _PROJECT_NAME: "user14-delivery"
 
 phases:
   install:
